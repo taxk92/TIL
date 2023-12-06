@@ -47,3 +47,7 @@ git init
 
 **.gitignore 파일을 사용해서 배제할 요소들을 지정할 수 있다.**
 
+---
+
+### Reference
+[인프런 얄코님의 git강의](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83/dashboard)
