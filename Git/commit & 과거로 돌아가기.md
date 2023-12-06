@@ -48,3 +48,8 @@ git revert --no-commit (되돌릴  커밋 해시)
 > 원하는 다른 작업을 추가한 다음 함께 커밋
 
 > 취소하려면 git reset --hard
+
+---
+
+### Reference
+[인프런 얄코님의 git강의](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83/dashboard)
