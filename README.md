@@ -8,7 +8,7 @@
 * [commit & 과거로 돌아가기](https://github.com/taxk92/TIL/blob/main/Git/commit%20%26%20%EA%B3%BC%EA%B1%B0%EB%A1%9C%20%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0.md)
 * [Branch](https://github.com/taxk92/TIL/blob/main/Git/Branch.md)
 * [Git hub](https://github.com/taxk92/TIL/blob/main/Git/github.md)
-* [Create Git의 3가지 공간](https://github.com/taxk92/TIL/blob/main/Git/Git%EC%9D%98%203%EA%B0%80%EC%A7%80%20%EA%B3%B5%EA%B0%84.md)
+* [Git의 3가지 공간](https://github.com/taxk92/TIL/blob/main/Git/Git%EC%9D%98%203%EA%B0%80%EC%A7%80%20%EA%B3%B5%EA%B0%84.md)
 * [Head 그리고 fetch vs pull](https://github.com/taxk92/TIL/blob/main/Git/Head%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20fetch%20vs%20pull.md)
 * [Commit 권장사항](https://github.com/taxk92/TIL/blob/main/Git/Commit%20%EA%B6%8C%EC%9E%A5%EC%82%AC%ED%95%AD.md)
 * [Git stash](https://github.com/taxk92/TIL/blob/main/Git/Git%20stash.md)
