@@ -13,3 +13,4 @@
 * [Commit 권장사항](https://github.com/taxk92/TIL/blob/main/Git/Commit%20%EA%B6%8C%EC%9E%A5%EC%82%AC%ED%95%AD.md)
 * [Git stash](https://github.com/taxk92/TIL/blob/main/Git/Git%20stash.md)
 * [Commit 수정하기](https://github.com/taxk92/TIL/blob/main/Git/Commit%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md)
+* [커밋에 태그 달기](https://github.com/taxk92/TIL/blob/main/Git/%EC%BB%A4%EB%B0%8B%EC%97%90%20%ED%83%9C%EA%B7%B8%20%EB%8B%AC%EA%B8%B0.md)
