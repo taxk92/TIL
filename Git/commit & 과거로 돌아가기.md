@@ -49,7 +49,18 @@ git revert --no-commit (되돌릴  커밋 해시)
 
 > 취소하려면 git reset --hard
 
+
+### reflog 명령어
+
+`reset`으로 사라진 커밋을 복구할 수 있는 `reflog` 명령어
+```
+git reflog
+```
+> `reflog`는 프로젝트가 위치한 커밋이 바뀔 때마다 기록되는 내역을 보여주고
+이를 사용하여 `reset`하기 이전 시점으로 프로젝트를 복구할 수 있다
+
 ---
 
 ### Reference
+
 [인프런 얄코님의 git강의](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83/dashboard)
