@@ -84,6 +84,19 @@ git rebase --continue
 ```
 
 ---
+## 다른 브랜치의 원하는 커밋 가져오기
+`cherry-pick` 명령어 사용
+
+### 다른 브랜치 커밋 main 브랜치로 가져오기
+main 브랜치에서 실행
+```
+git cherry-pick (다른 브랜치 커밋 해시)
+```
+
+
+
+
+---
 
 ### Reference
 [인프런 얄코님의 git강의](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83/dashboard)
