@@ -114,6 +114,21 @@ git merge --squash (대상 브랜치)
 
 
 ---
+## Gitflow
+협업을 위한 브랜칭 전략
+
+![git-model@2x](https://github.com/taxk92/TIL/assets/135501581/be50311f-9375-488b-959b-26d3bdd96fef)
+
+### 사용되는 브랜치들
+|브랜치|용도|
+|--|--|
+|main|제품 출시/배포|
+|develop|다음 출시/배포를 위한 개발 진행|
+|release|출시/배포 전 테스트 진행(QA)|
+|feature|기능 개발|
+|hotfix|긴급한 버그 수정|
+
+---
 
 ### Reference
 [인프런 얄코님의 git강의](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83/dashboard)
