@@ -18,3 +18,4 @@
 ### HTML&CSS
 * [제목과 본문](https://github.com/taxk92/TIL/blob/main/HTML%20%26%20CSS/%EC%A0%9C%EB%AA%A9%EA%B3%BC%20%EB%B3%B8%EB%AC%B8.md)
 * [이미지,표,링크 사용하기](https://github.com/taxk92/TIL/blob/main/HTML%20%26%20CSS/%EC%9D%B4%EB%AF%B8%EC%A7%80%2C%ED%91%9C%2C%EB%A7%81%ED%81%AC%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+* [사용자로부터 입력 받기](https://github.com/taxk92/TIL/blob/main/HTML%20%26%20CSS/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A1%9C%EB%B6%80%ED%84%B0%20%EC%9E%85%EB%A0%A5%20%EB%B0%9B%EA%B8%B0.md)
